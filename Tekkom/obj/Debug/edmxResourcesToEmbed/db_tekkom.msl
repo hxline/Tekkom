@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tekkomModelStoreContainer" CdmEntityContainer="tekkomEntities">
+    <EntitySetMapping Name="keterangan">
+      <EntityTypeMapping TypeName="tekkomModel.keterangan">
+        <MappingFragment StoreEntitySet="keterangan">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ket" ColumnName="ket" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="objek">
+      <EntityTypeMapping TypeName="tekkomModel.objek">
+        <MappingFragment StoreEntitySet="objek">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="objek1" ColumnName="objek" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="predikat">
+      <EntityTypeMapping TypeName="tekkomModel.predikat">
+        <MappingFragment StoreEntitySet="predikat">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="predikat1" ColumnName="predikat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="subjek">
+      <EntityTypeMapping TypeName="tekkomModel.subjek">
+        <MappingFragment StoreEntitySet="subjek">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="subjek1" ColumnName="subjek" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

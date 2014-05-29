@@ -1,0 +1,35 @@
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\bin\Debug\Tekkom.exe.config
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\bin\Debug\Tekkom.exe
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\bin\Debug\Tekkom.pdb
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\bin\Debug\EntityFramework.dll
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\bin\Debug\EntityFramework.xml
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\obj\Debug\Tekkom.csprojResolveAssemblyReference.cache
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\obj\Debug\Tekkom.Form1.resources
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\obj\Debug\Tekkom.Properties.Resources.resources
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\obj\Debug\Tekkom.csproj.GenerateResource.Cache
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\obj\Debug\Tekkom.exe
+c:\users\handoyo\documents\visual studio 2012\Projects\Tekkom\obj\Debug\Tekkom.pdb
+D:\Tugas\Tekkom\Tekkom\bin\Debug\Tekkom.exe.config
+D:\Tugas\Tekkom\Tekkom\obj\Debug\Tekkom.exe
+D:\Tugas\Tekkom\Tekkom\obj\Debug\Tekkom.pdb
+D:\Tugas\Tekkom\Tekkom\bin\Debug\Tekkom.exe
+D:\Tugas\Tekkom\Tekkom\bin\Debug\Tekkom.pdb
+D:\Tugas\Tekkom\Tekkom\bin\Debug\EntityFramework.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\Microsoft.CSharp.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Data.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Data.Entity.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Deployment.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Drawing.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Runtime.Serialization.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Security.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Windows.Forms.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Xml.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\System.Xml.Linq.dll
+D:\Tugas\Tekkom\Tekkom\bin\Debug\EntityFramework.xml
+D:\Tugas\Tekkom\Tekkom\obj\Debug\Tekkom.csprojResolveAssemblyReference.cache
+D:\Tugas\Tekkom\Tekkom\obj\Debug\Tekkom.Form1.resources
+D:\Tugas\Tekkom\Tekkom\obj\Debug\Tekkom.Properties.Resources.resources
+D:\Tugas\Tekkom\Tekkom\obj\Debug\Tekkom.csproj.GenerateResource.Cache

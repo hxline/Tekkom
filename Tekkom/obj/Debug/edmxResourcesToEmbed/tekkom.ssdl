@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tekkomModel.Store" Alias="Self" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.1" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="tekkomModelStoreContainer">
+    <EntitySet Name="objek" EntityType="tekkomModel.Store.objek" store:Type="Tables" Schema="tekkom" />
+    <EntitySet Name="pelengkap" EntityType="tekkomModel.Store.pelengkap" store:Type="Tables" Schema="tekkom" />
+    <EntitySet Name="predikat" EntityType="tekkomModel.Store.predikat" store:Type="Tables" Schema="tekkom" />
+    <EntitySet Name="subjek" EntityType="tekkomModel.Store.subjek" store:Type="Tables" Schema="tekkom" />
+  </EntityContainer>
+  <EntityType Name="objek">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="objek" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="pelengkap">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="pel" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="predikat">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="predikat" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="subjek">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="subjek" Type="varchar" MaxLength="25" />
+  </EntityType>
+</Schema>
